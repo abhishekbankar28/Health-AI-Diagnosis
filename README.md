@@ -23,22 +23,27 @@ This project is a comprehensive health diagnosis system that leverages several m
    git clone https://github.com/yourusername/health-ai-diagnosis.git
    cd Health-Ai-Diagnosis
 
-Usage
-Train the ML Model:
-
+Usage Train the ML Model:
+------------------------------------------------------------
 Run the Recommendation_system.ipynb notebook to train the machine learning models and save the trained model (e.g., using pickle).
 
+------------------------------------------------------------
 Run the Flask Application:
-
+------------------------------------------------------------
 Start the web server by running:
 
 python app.py
 
+------------------------------------------------------------
 Test the Website:
-
+------------------------------------------------------------
 Open your browser and navigate to the provided local URL (e.g., http://127.0.0.1:5000/) to test the application.
 
+------------------------------------------------------------
 License
+------------------------------------------------------------
 This project is licensed under the MIT License.
 
+------------------------------------------------------------
 Feel free to modify any sections to match your project specifics.
+
